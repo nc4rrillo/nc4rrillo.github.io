@@ -6,7 +6,7 @@ title:               Indigo
 tagline:             Indigo wants to be a UI framework when it grows up.
 url:                 http://nc4rrillo.github.io
 paginate:            1
-baseurl: /poole/
+baseurl: https://nc4rrillo.github.io/poole/
 
 # Assets
 #
@@ -20,11 +20,6 @@ author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
 
 # Gems
 gems:
