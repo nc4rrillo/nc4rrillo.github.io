@@ -12,13 +12,7 @@ baseurl:             ""
 sass:
   sass_dir:          _sass
   style:            :compressed
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
+  
 # Gems
 gems:
   - jekyll-paginate
