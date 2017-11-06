@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Indigo
+tagline:             Indigo wants to be a UI framework when it grows up.
+url:                 http://nc4rrillo.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "http://nc4rrillo.github.io/poole/"
 
 # Assets
 #
