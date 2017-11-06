@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Indigo
 tagline:             Indigo wants to be a UI framework when it grows up.
-url:                 http://nc4rrillo.github.io
+url:                 http://nc4rrillo.github.io/poole/
 paginate:            1
-baseurl: /poole
+baseurl: /poole/
 
 # Assets
 #
